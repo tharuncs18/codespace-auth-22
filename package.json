@@ -1,0 +1,19 @@
+{
+  "name": "codespace-auth-22",
+  "version": "1.0.0",
+  "description": "an auth system totally designed in codespace",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tharuncs18/codespace-auth-22.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tharuncs18/codespace-auth-22/issues"
+  },
+  "homepage": "https://github.com/tharuncs18/codespace-auth-22#readme"
+}
